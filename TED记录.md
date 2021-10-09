@@ -1,4 +1,4 @@
-# TED记录
+## TED记录
 
 ## 如何成为一个更好的交谈者
 
@@ -52,3 +52,20 @@
 
 ## 温和的成功哲学
 
+
+
+
+
+------
+
+## 如何停止萎靡并开启心流
+
+（How to stop languishing and start finding flow？）
+
+Adam's Mario Kart theory of peak flow.It has three conditions: mastery, mindfulness and mattering
+
+1. Mastery is something a lot of us have been having a hard time finding lately. Psychologists find that at work the strongest factor in daily motivation and joy is a sense of progress. 
+
+2. That kind of mastery depends on a second condition for flow, mindfulness. Focusing your full attention on a single task.
+
+3. Now, mastery and mindfulness will get you to flow, but there's a third condition that turns it into a peak experience. Mattering. Knowing that you make a difference to other people. 
